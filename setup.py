@@ -6,7 +6,6 @@ install_requires = [
     "numpy",
     "scipy",
     "graphtools",
-    "phate",
     "scikit-learn",
     "tasklogger",
     "joblib",
